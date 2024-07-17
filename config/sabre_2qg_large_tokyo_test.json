@@ -1,0 +1,22 @@
+{
+    "bench_folder": "./benchmark/sabre_CXonly_bench/large/",
+    "bench_filter": "",
+    "qasm_path": "./result/qasm/sabre_2qg_large_tokyo_test/",
+    "excel_path": "./result/excel/sabre_2qg_large_tokyo_test.xlsx",
+    "backend": "tokyo",
+    "reps": 5,
+    "objective": "size",
+    "test_methods": [
+        "sabre",
+        "test",
+        "087",
+        "023",
+        "018",
+        "037",
+        "010",
+        "044",
+        "040"
+    ],
+    "output_qasm": false,
+    "output_excel": true
+}

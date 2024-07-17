@@ -1,0 +1,7 @@
+"C:\\Users\\wayne\\Desktop\\QMR\\Qubit-Layout-Synthesis\\benchmark\\mqtbench\\qubit_16_20_CX"
+
+"C:\\Users\\wayne\\Desktop\\QMR\\Qubit-Layout-Synthesis\\benchmark\\sabre_CXonly_bench\\large"
+
+"C:\\Users\\wayne\\Desktop\\QMR\\Qubit-Layout-Synthesis_backUP\\benchmark\\mqtbench\\qubit_16_20_ONLYQ"
+
+"C:\\Users\\wayne\\Desktop\\QMR\\Qubit-Layout-Synthesis_backUP\\benchmark\\mqtbench\\qubit_16_20_ONLYQ_CX"

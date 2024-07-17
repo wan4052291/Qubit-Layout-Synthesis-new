@@ -1,0 +1,20 @@
+{
+    "bench_folder": "./benchmark/sabre_CXonly_bench/large/",
+    "bench_filter": "",
+    "qasm_path": "./result/qasm/sabre_2qg_large_rochester/",
+    "excel_path": "./result/excel/sabre_2qg_large_rochester.xlsx",
+    "backend": "rochester",
+    "reps": 5,
+    "objective": "size",
+    "test_methods": [
+        "sabre",
+        "018",
+        "087",
+        "037",
+        "010",
+        "044",
+        "040"
+    ],
+    "output_qasm": false,
+    "output_excel": true
+}

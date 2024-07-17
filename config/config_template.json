@@ -1,0 +1,12 @@
+{
+    "bench_folder": "",
+    "bench_filter": "",
+    "qasm_path": "",
+    "excel_path": "",
+    "backend": "",
+    "reps": 0,
+    "objective": "",
+    "test_methods": [],
+    "output_qasm": false,
+    "output_excel": false
+}

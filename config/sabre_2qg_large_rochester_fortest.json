@@ -1,0 +1,19 @@
+{
+    "bench_folder": "C:\\Users\\wayne\\Desktop\\QMR\\Qubit-Layout-Synthesis_backUP\\benchmark\\mqtbench\\qubit_16_20_ONLYQ_CX",
+    "bench_filter": "",
+    "qasm_path": "./result/qasm/sabre_2qg_large_rochester_test/",
+    "excel_path": "./result/excel/sabre_2qg_large_rochester_test_test.xlsx",
+    "backend": "tokyo",
+    "reps": 1,
+    "objective": "size",
+    "test_methods": [
+        "0871",
+        "0872",
+        "0181",
+        "023",
+        "sabre"
+    ],
+    "output_qasm": false,
+    "output_excel": true
+}
+
